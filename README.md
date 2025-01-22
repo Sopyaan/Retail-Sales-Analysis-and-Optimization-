@@ -25,3 +25,5 @@ The company holds valuable retail sales data that includes transaction details s
 - The dashboard is easy for stakeholders to understand.
 - The Python analysis provides actionable insights.
 - Strategic recommendations are data-driven and aligned with business objectives.
+
+
