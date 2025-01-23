@@ -22,5 +22,3 @@ The company holds valuable retail sales data that includes transaction details s
 - Key insights and actionable recommendations.
   
 ## 🌟 Business Insights Overview
-- The dashboard is easy for stakeholders to understand.
-- 
