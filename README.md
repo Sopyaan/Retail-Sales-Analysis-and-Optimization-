@@ -21,7 +21,7 @@ The company holds valuable retail sales data that includes transaction details s
 - Correlation analysis between variables (e.g., ratings and gross income).
 - Key insights and actionable recommendations.
   
-## 🌟 Success Criteria
+## 🌟 Business Insights Overview
 - The dashboard is easy for stakeholders to understand.
 - The Python analysis provides actionable insights.
 - Strategic recommendations are data-driven and aligned with business objectives.
