@@ -4,7 +4,7 @@
 The company holds valuable retail sales data that includes transaction details such as branch location, product type, customer type, payment method, and purchase time. This data serves as an essential asset to understand customer behavior, operational efficiency, and opportunities for revenue growth. Stakeholders aim to analyze how these factors influence business performance and identify strategies to optimize sales.
 
 ## 🎯 Objectives
-- Analyze sales patterns: Identify sales trends based on products, branches, customer types, and payment methods.
+- Analyze sales patterns: Identify sales trends based on products, customer types, and payment methods.
 - Evaluate branch performance: Compare the performance of each branch to determine the top-performing and underperforming branches.
 - Analyze customer satisfaction: Use customer ratings to assess their experience and identify factors influencing satisfaction.
 - Provide strategic insights: Deliver data-driven recommendations to boost sales and operational efficiency.
