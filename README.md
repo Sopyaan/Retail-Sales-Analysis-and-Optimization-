@@ -27,5 +27,25 @@ The company holds valuable retail sales data that includes transaction details s
 - Visualizations of sales trends.
 - Correlation analysis between variables (e.g., ratings and gross income).
 - Key insights and actionable recommendations.
-  
+
+## 📝 Steps of Supermarket Sales Analysis
+### Tabel Analysis:
+- Calculate Revenue: Multiply "Quantity" by "Unit Price".
+- Calculate Tax 5%: Use SUMX to multiply "Revenue" by 0.05.
+- Calculate Net Revenue: Add "Revenue" with tax.
+- Calculate Profit: Subtract "Net Revenue" from "COGS".
+- Calculate Gross Profit Margin: Divide "Profit" by "Net Revenue".
+
+### Donut Chart:
+- Compare payment methods (Ewallet, Cash, Credit card) with total quantity sold.
+
+### Stacked Bar Chart:
+- Display revenue distribution across branches (A, B, C).
+
+### Area Chart:
+- Track profit trends from January to March 2019.
+
+### Funnel Chart:
+- Visualize the average customer rating for each product line.
+
 ## 🌟 Business Insights Overview
