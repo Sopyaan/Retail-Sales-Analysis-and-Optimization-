@@ -49,3 +49,6 @@ The company holds valuable retail sales data that includes transaction details s
 - Visualize the average customer rating for each product line.
 
 ## 🌟 Business Insights Overview
+<p align="center">
+  <img src="https://github.com/Sopyaan/Retail-Sales-Analysis-and-Optimization-/blob/main/img/Dashboard%20Walmart%20Sales.png", width="" height="">
+</p>
