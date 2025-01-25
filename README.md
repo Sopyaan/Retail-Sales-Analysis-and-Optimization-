@@ -13,6 +13,13 @@ The company holds valuable retail sales data that includes transaction details s
 - Total sales per branch and product category.
 - Monthly sales trends over time.
 - Payment method analysis.
+- Distribution of customer ratings.
+
+#### Specific visualizations for deeper insights:
+- Donut Chart: Comparing payment methods with quantity sold.
+- Stacked Bar Chart: Displaying revenue by branch.
+- Area Chart: Tracking profit from January to March.
+- Funnel Chart: Showing average ratings per product category.
 
 ### Distribution of customer ratings.
 - An analytical report in Google Colab using Python, including:
