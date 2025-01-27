@@ -53,5 +53,4 @@ The company holds valuable retail sales data that includes transaction details s
   <img src="https://github.com/Sopyaan/Retail-Sales-Analysis-and-Optimization-/blob/main/img/Dashboard%20Walmart%20Sales.png", width="" height="">
 </p>
 
-Berdasarkan visualisasi ditemukan bahwa
-1. shhshs
+
