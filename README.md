@@ -57,4 +57,3 @@ The company holds valuable retail sales data that includes transaction details s
 2.
 3.
 4.
-5.
